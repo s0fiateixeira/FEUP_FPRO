@@ -7,4 +7,4 @@
 
 All of the exercises are poorly developed\
 2018/19\
-Final grade: 11/20\
+Final grade: 11/20

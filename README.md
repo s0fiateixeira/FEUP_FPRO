@@ -5,5 +5,5 @@
 * PE - Practical on Computer Evaluation
 * FPROPlay - Additional programming exercises
 
-The exercises are poorly developed and some of them might not be finished\
+The exercises are poorly developed and some of them may not be finished\
 2018/19

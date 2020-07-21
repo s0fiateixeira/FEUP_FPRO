@@ -6,4 +6,4 @@
 * FPROPlay - Additional programming exercises
 
 All of the exercises are poorly developed\
-2018/19\
+2018/19
